@@ -1,4 +1,4 @@
-# Site web — Jean-Victor Garnier, Coach d'entrepreneurs
+# Site web — Jean-Victor, Coach d'entrepreneurs
 
 Site vitrine (une seule page) axé **performance & mitigation des risques**.
 
