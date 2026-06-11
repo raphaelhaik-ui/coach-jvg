@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Brief / notes internes — gardés en local, jamais publiés
+draft JVG.rtf
+
+# Artefacts de prévisualisation
+.playwright-mcp/
+*-check.png
+preview*.png
+
+# Dépendances éventuelles (futur)
+node_modules/
